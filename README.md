@@ -38,3 +38,9 @@
 2. [Справочные материалы по Markdown](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
 3. [markdown-here](https://markdown-here.com/livedemo.html)
 4. [markdown-it.github](https://markdown-it.github.io/)
+
+## Работа с удаленным репозиторием ##
+* git clone -  создание копии удаленного репозитория
+* git push - отправка подтвержденных изменений в удаленный репозиторий
+* git pull - скачивание файлов из текущего репозитория и автоматическое merge с нашей версией
+* 
