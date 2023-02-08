@@ -57,3 +57,23 @@
 Получение остатка от деления:(%)
 
 *print(7 % 2)*
+
+## Cписок полезных библиотек ##
+
+* __random__ - Позволяет создавать программы в которых нужен рандом, к примеру азартные игры
+![random](https://nnortoncomsetup.com/wp-content/uploads/2022/01/Online-Poker-Games-2-2048x1280.jpg)
+
+* __math__ - Является дополнением к встроенным арифметическим действиям, к примеру с помощью этой библиотеки можно извлечь корень
+![math](https://www.math.asu.ru/wp-content/uploads/2021/06/8.jpg)
+
+* __pygame__ - библиотека предназначена для создания игр на Python
+![pygame](https://user-images.githubusercontent.com/65417594/104594821-fe240a00-5671-11eb-9a95-67652a4bab26.png)
+
+* __socket__ - данная библиотека предназначена для сетевых инженеров и позволяет создавать сокеты и сети на различных устройствах
+![socket](https://i.ytimg.com/vi/QyJBrS1c1s8/maxresdefault.jpg)
+
+* __datetime__ - библиотека для работы с датой и времерем
+![datetime](https://cdn.dribbble.com/users/1648363/screenshots/3535176/timerunsout.gif)
+
+* __tkinter__ - данная библиотека позволяет создавать графический интерфейс программы
+![tkinter](https://i.ytimg.com/vi/IltegavbWN4/maxresdefault.jpg?7857057827)
