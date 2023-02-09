@@ -40,3 +40,13 @@
 8. git status (for checking fails)
 
 ***
+## To work with remote repository
+
+- git clone link_to_rep - to clone remote repository to your local computer
+
+- git remote add origin link_to_rep - to connect your local repository with remote one
+
+- git push -u origin - to first download your local repository to remote one
+
+- git pull - to download changes in remote repository to your local one
+
