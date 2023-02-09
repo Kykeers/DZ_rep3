@@ -1,4 +1,36 @@
-# DZ Sem3
+# First Seminar #
+* git init - запуск репозитория (инициализация)
+* git add - добавление изменений
+* git status - просмотр статуса
+* git commit - добавление комментария
+* git diff - просмотр изменений
+* git log - журнал с изменениями
+## Шрифты ##
+* *Курсив*
+* **Жирный**
+*  ~~Зачёркнутый~~
+### Цитата ###
+>Привет
+>>Мир
+#### Ссылка ####
+* Rick Astley - Never Gonna Give You Up [ссылка](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* [Tyler,The Creator](https://www.youtube.com/watch?v=HmAsUQEFYGI)
+##### Картинка #####
+* ![Банан на стене](https://yandex.ru/images/search?text=банан%20на%20стене&from=tabbar&pos=0&img_url=http%3A%2F%2Fridus.ru%2Fimages%2F2019%2F12%2F6%2F1018421%2Fin_article_28a1516365.jpg&rpt=simage&lr=192)
+
+# Second Seminar #
+05.02.23
+15:50 по МСК
+## Создание веток
+**git branch имя ветки - создание новой ветки**
+
+## Слияние веток
+**git merge имя ветки - слияние веток**
+
+## Конфликт при слияние данных веток
+**Конфликты возникают, когда коммиты претендуют на общее рабочее пространство**
+
+#DZ Sem3
 ## change from Dmitry
 
 **Команда push - позволяет отправлять локальную ветку на удаленный репозиторий**
